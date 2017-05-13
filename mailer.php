@@ -1,6 +1,6 @@
 <?php
 
-    //processing form from party_planner
+    //processing form from party_planner...testting hooks
     
     // Only process POST reqeusts.
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
